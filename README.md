@@ -1,3 +1,2 @@
 # IO_AsmFullStackDevTeam
-
-Projekt na IO - Bawimy się doskonale <3
+It's an Python proect which I created on studies witch my team, to learn how sofware development process course.   
